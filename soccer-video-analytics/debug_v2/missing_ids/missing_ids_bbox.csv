@@ -1,0 +1,67 @@
+event_frame,last_seen_frame,missing_id,last_xmin,last_ymin,last_xmax,last_ymax,expanded_xmin,expanded_ymin,expanded_xmax,expanded_ymax,width,height,recovered_team,recovered_score,raw_frame_path,annotated_frame_path
+49,48,7,1036,326,1068,397,1020,290,1084,432,32,71,red team,0.049076,debug_v2/missing_ids/raw_frames/frame_000049_missing_7.jpg,debug_v2/missing_ids/annotated_frames/frame_000049_missing_7.jpg
+56,55,22,1488,65,1506,109,1479,43,1515,131,18,44,red team,0.308712,debug_v2/missing_ids/raw_frames/frame_000056_missing_22.jpg,debug_v2/missing_ids/annotated_frames/frame_000056_missing_22.jpg
+82,81,11,1903,505,1920,577,1894,469,1919,613,17,72,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000082_missing_11.jpg,debug_v2/missing_ids/annotated_frames/frame_000082_missing_11.jpg
+113,112,19,17,589,48,645,2,561,64,673,31,56,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000113_missing_19.jpg,debug_v2/missing_ids/annotated_frames/frame_000113_missing_19.jpg
+115,114,21,0,607,21,730,0,546,32,792,21,123,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000115_missing_21.jpg,debug_v2/missing_ids/annotated_frames/frame_000115_missing_21.jpg
+122,121,7,758,398,795,470,740,362,814,506,37,72,white team,0.006663,debug_v2/missing_ids/raw_frames/frame_000122_missing_7.jpg,debug_v2/missing_ids/annotated_frames/frame_000122_missing_7.jpg
+129,128,13,35,389,73,477,16,345,92,521,38,88,white team,0.013532,debug_v2/missing_ids/raw_frames/frame_000129_missing_13.jpg,debug_v2/missing_ids/annotated_frames/frame_000129_missing_13.jpg
+135,134,12,0,414,20,520,0,361,30,573,20,106,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000135_missing_12.jpg,debug_v2/missing_ids/annotated_frames/frame_000135_missing_12.jpg
+141,140,7,586,439,614,522,572,398,628,564,28,83,white team,0.078528,debug_v2/missing_ids/raw_frames/frame_000141_missing_7.jpg,debug_v2/missing_ids/annotated_frames/frame_000141_missing_7.jpg
+164,163,26,772,50,793,111,762,20,804,142,21,61,red team,0.193404,debug_v2/missing_ids/raw_frames/frame_000164_missing_26.jpg,debug_v2/missing_ids/annotated_frames/frame_000164_missing_26.jpg
+166,165,25,1606,82,1650,125,1584,60,1672,146,44,43,red team,0.236390,debug_v2/missing_ids/raw_frames/frame_000166_missing_25.jpg,debug_v2/missing_ids/annotated_frames/frame_000166_missing_25.jpg
+173,172,9,1240,710,1288,797,1216,666,1312,840,48,87,red team,0.022989,debug_v2/missing_ids/raw_frames/frame_000173_missing_9.jpg,debug_v2/missing_ids/annotated_frames/frame_000173_missing_9.jpg
+178,177,25,1746,24,1764,74,1737,0,1773,99,18,50,white team,0.222783,debug_v2/missing_ids/raw_frames/frame_000178_missing_25.jpg,debug_v2/missing_ids/annotated_frames/frame_000178_missing_25.jpg
+187,186,26,811,15,831,71,801,0,841,99,20,56,white team,0.212121,debug_v2/missing_ids/raw_frames/frame_000187_missing_26.jpg,debug_v2/missing_ids/annotated_frames/frame_000187_missing_26.jpg
+188,187,27,305,22,324,65,296,0,334,86,19,43,white team,0.288556,debug_v2/missing_ids/raw_frames/frame_000188_missing_27.jpg,debug_v2/missing_ids/annotated_frames/frame_000188_missing_27.jpg
+189,188,17,1310,738,1377,832,1276,691,1410,879,67,94,red team,0.034892,debug_v2/missing_ids/raw_frames/frame_000189_missing_17.jpg,debug_v2/missing_ids/annotated_frames/frame_000189_missing_17.jpg
+196,195,25,1805,0,1823,30,1796,0,1832,45,18,30,red team,0.311111,debug_v2/missing_ids/raw_frames/frame_000196_missing_25.jpg,debug_v2/missing_ids/annotated_frames/frame_000196_missing_25.jpg
+200,199,24,1357,0,1375,35,1348,0,1384,52,18,35,red team,0.378205,debug_v2/missing_ids/raw_frames/frame_000200_missing_24.jpg,debug_v2/missing_ids/annotated_frames/frame_000200_missing_24.jpg
+219,218,15,814,387,842,465,800,348,856,504,28,78,red team,0.054602,debug_v2/missing_ids/raw_frames/frame_000219_missing_15.jpg,debug_v2/missing_ids/annotated_frames/frame_000219_missing_15.jpg
+222,221,29,918,0,936,36,909,0,945,54,18,36,white team,0.188272,debug_v2/missing_ids/raw_frames/frame_000222_missing_29.jpg,debug_v2/missing_ids/annotated_frames/frame_000222_missing_29.jpg
+224,223,7,803,388,857,481,776,342,884,528,54,93,white team,0.026235,debug_v2/missing_ids/raw_frames/frame_000224_missing_7.jpg,debug_v2/missing_ids/annotated_frames/frame_000224_missing_7.jpg
+232,231,32,464,0,481,33,456,0,490,50,17,33,red team,0.177647,debug_v2/missing_ids/raw_frames/frame_000232_missing_32.jpg,debug_v2/missing_ids/annotated_frames/frame_000232_missing_32.jpg
+247,246,24,1366,7,1383,51,1358,0,1392,73,17,44,red team,0.195810,debug_v2/missing_ids/raw_frames/frame_000247_missing_24.jpg,debug_v2/missing_ids/annotated_frames/frame_000247_missing_24.jpg
+249,248,24,1348,20,1364,61,1340,0,1372,82,16,41,red team,0.167683,debug_v2/missing_ids/raw_frames/frame_000249_missing_24-30.jpg,debug_v2/missing_ids/annotated_frames/frame_000249_missing_24-30.jpg
+249,248,30,1477,1047,1519,1079,1456,1031,1540,1079,42,32,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000249_missing_24-30.jpg,debug_v2/missing_ids/annotated_frames/frame_000249_missing_24-30.jpg
+264,263,7,968,449,1011,540,946,404,1032,586,43,91,red team,0.035331,debug_v2/missing_ids/raw_frames/frame_000264_missing_7-24.jpg,debug_v2/missing_ids/annotated_frames/frame_000264_missing_7-24.jpg
+264,263,24,1293,41,1312,86,1284,18,1322,108,19,45,red team,0.227485,debug_v2/missing_ids/raw_frames/frame_000264_missing_7-24.jpg,debug_v2/missing_ids/annotated_frames/frame_000264_missing_7-24.jpg
+265,264,31,0,676,34,772,0,628,51,820,34,96,red team,0.061172,debug_v2/missing_ids/raw_frames/frame_000265_missing_31.jpg,debug_v2/missing_ids/annotated_frames/frame_000265_missing_31.jpg
+280,279,33,0,637,21,730,0,590,32,776,21,93,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000280_missing_33.jpg,debug_v2/missing_ids/annotated_frames/frame_000280_missing_33.jpg
+291,290,13,0,502,19,556,0,475,28,583,19,54,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000291_missing_13.jpg,debug_v2/missing_ids/annotated_frames/frame_000291_missing_13.jpg
+301,300,23,101,75,137,126,83,50,155,152,36,51,red team,0.151416,debug_v2/missing_ids/raw_frames/frame_000301_missing_23-28.jpg,debug_v2/missing_ids/annotated_frames/frame_000301_missing_23-28.jpg
+301,300,28,0,473,17,520,0,450,26,544,17,47,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000301_missing_23-28.jpg,debug_v2/missing_ids/annotated_frames/frame_000301_missing_23-28.jpg
+302,301,6,1406,280,1432,344,1393,248,1445,376,26,64,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000302_missing_6.jpg,debug_v2/missing_ids/annotated_frames/frame_000302_missing_6.jpg
+312,311,14,0,253,20,328,0,216,30,366,20,75,white team,0.000889,debug_v2/missing_ids/raw_frames/frame_000312_missing_14.jpg,debug_v2/missing_ids/annotated_frames/frame_000312_missing_14.jpg
+328,327,6,1200,277,1246,355,1177,238,1269,394,46,78,white team,0.089186,debug_v2/missing_ids/raw_frames/frame_000328_missing_6.jpg,debug_v2/missing_ids/annotated_frames/frame_000328_missing_6.jpg
+344,343,34,1,0,24,48,0,0,36,72,23,48,white team,0.263117,debug_v2/missing_ids/raw_frames/frame_000344_missing_34.jpg,debug_v2/missing_ids/annotated_frames/frame_000344_missing_34.jpg
+353,352,5,0,180,14,236,0,152,21,264,14,56,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000353_missing_5.jpg,debug_v2/missing_ids/annotated_frames/frame_000353_missing_5.jpg
+426,425,6,1232,305,1256,386,1220,264,1268,426,24,81,white team,0.106481,debug_v2/missing_ids/raw_frames/frame_000426_missing_6.jpg,debug_v2/missing_ids/annotated_frames/frame_000426_missing_6.jpg
+446,445,35,1875,197,1917,277,1854,157,1919,317,42,80,white team,0.037404,debug_v2/missing_ids/raw_frames/frame_000446_missing_35.jpg,debug_v2/missing_ids/annotated_frames/frame_000446_missing_35.jpg
+454,453,2,1483,413,1531,483,1459,378,1555,518,48,70,white team,0.069568,debug_v2/missing_ids/raw_frames/frame_000454_missing_2.jpg,debug_v2/missing_ids/annotated_frames/frame_000454_missing_2.jpg
+456,455,37,243,0,264,31,232,0,274,46,21,31,red team,0.270186,debug_v2/missing_ids/raw_frames/frame_000456_missing_37.jpg,debug_v2/missing_ids/annotated_frames/frame_000456_missing_37.jpg
+479,478,37,339,0,358,35,330,0,368,52,19,35,red team,0.265182,debug_v2/missing_ids/raw_frames/frame_000479_missing_37.jpg,debug_v2/missing_ids/annotated_frames/frame_000479_missing_37.jpg
+480,479,6,1332,338,1370,422,1313,296,1389,464,38,84,white team,0.093437,debug_v2/missing_ids/raw_frames/frame_000480_missing_6.jpg,debug_v2/missing_ids/annotated_frames/frame_000480_missing_6.jpg
+499,498,4,697,576,738,679,676,524,758,730,41,103,white team,0.095430,debug_v2/missing_ids/raw_frames/frame_000499_missing_4.jpg,debug_v2/missing_ids/annotated_frames/frame_000499_missing_4.jpg
+502,501,2,1302,408,1366,510,1270,357,1398,561,64,102,white team,0.054151,debug_v2/missing_ids/raw_frames/frame_000502_missing_2.jpg,debug_v2/missing_ids/annotated_frames/frame_000502_missing_2.jpg
+509,508,5,0,99,24,174,0,62,36,212,24,75,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000509_missing_5.jpg,debug_v2/missing_ids/annotated_frames/frame_000509_missing_5.jpg
+521,520,1,0,227,25,309,0,186,38,350,25,82,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000521_missing_1.jpg,debug_v2/missing_ids/annotated_frames/frame_000521_missing_1.jpg
+523,522,35,1490,146,1523,228,1474,105,1540,269,33,82,red team,0.051737,debug_v2/missing_ids/raw_frames/frame_000523_missing_35.jpg,debug_v2/missing_ids/annotated_frames/frame_000523_missing_35.jpg
+550,549,38,1455,1044,1490,1078,1438,1027,1508,1079,35,34,red team,0.003297,debug_v2/missing_ids/raw_frames/frame_000550_missing_38.jpg,debug_v2/missing_ids/annotated_frames/frame_000550_missing_38.jpg
+555,554,3,773,371,802,460,758,326,816,504,29,89,white team,0.163503,debug_v2/missing_ids/raw_frames/frame_000555_missing_3.jpg,debug_v2/missing_ids/annotated_frames/frame_000555_missing_3.jpg
+564,563,42,1792,1045,1837,1079,1770,1028,1860,1079,45,34,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000564_missing_42.jpg,debug_v2/missing_ids/annotated_frames/frame_000564_missing_42.jpg
+565,564,39,1370,1046,1413,1080,1348,1029,1434,1079,43,34,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000565_missing_39.jpg,debug_v2/missing_ids/annotated_frames/frame_000565_missing_39.jpg
+569,568,40,1614,1049,1645,1079,1598,1034,1660,1079,31,30,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000569_missing_40.jpg,debug_v2/missing_ids/annotated_frames/frame_000569_missing_40.jpg
+575,574,41,1763,304,1804,361,1742,276,1824,390,41,57,white team,0.142704,debug_v2/missing_ids/raw_frames/frame_000575_missing_41.jpg,debug_v2/missing_ids/annotated_frames/frame_000575_missing_41.jpg
+582,581,18,0,848,16,957,0,794,24,1012,16,109,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000582_missing_18.jpg,debug_v2/missing_ids/annotated_frames/frame_000582_missing_18.jpg
+583,582,17,887,1040,944,1080,858,1020,972,1079,57,40,red team,0.078799,debug_v2/missing_ids/raw_frames/frame_000583_missing_17.jpg,debug_v2/missing_ids/annotated_frames/frame_000583_missing_17.jpg
+600,599,9,1676,1053,1710,1080,1659,1040,1727,1079,34,27,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000600_missing_9.jpg,debug_v2/missing_ids/annotated_frames/frame_000600_missing_9.jpg
+602,601,43,398,204,425,261,384,176,438,290,27,57,red team,0.453216,debug_v2/missing_ids/raw_frames/frame_000602_missing_43.jpg,debug_v2/missing_ids/annotated_frames/frame_000602_missing_43.jpg
+605,604,36,816,1049,849,1079,800,1034,866,1079,33,30,unknown,0.000000,debug_v2/missing_ids/raw_frames/frame_000605_missing_36.jpg,debug_v2/missing_ids/annotated_frames/frame_000605_missing_36.jpg
+629,628,6,1174,316,1210,393,1156,278,1228,432,36,77,red team,0.405032,debug_v2/missing_ids/raw_frames/frame_000629_missing_6.jpg,debug_v2/missing_ids/annotated_frames/frame_000629_missing_6.jpg
+690,689,44,937,445,969,544,921,396,985,594,32,99,red team,0.004340,debug_v2/missing_ids/raw_frames/frame_000690_missing_44.jpg,debug_v2/missing_ids/annotated_frames/frame_000690_missing_44.jpg
+694,693,6,1651,319,1678,348,1638,304,1692,362,27,29,red team,0.236909,debug_v2/missing_ids/raw_frames/frame_000694_missing_6.jpg,debug_v2/missing_ids/annotated_frames/frame_000694_missing_6.jpg
+706,705,3,1317,587,1363,711,1294,525,1386,773,46,124,white team,0.068110,debug_v2/missing_ids/raw_frames/frame_000706_missing_3.jpg,debug_v2/missing_ids/annotated_frames/frame_000706_missing_3.jpg
+709,708,15,699,567,751,675,673,513,777,729,52,108,red team,0.059161,debug_v2/missing_ids/raw_frames/frame_000709_missing_15.jpg,debug_v2/missing_ids/annotated_frames/frame_000709_missing_15.jpg
+723,722,47,186,251,222,274,168,240,240,286,36,23,red team,0.338768,debug_v2/missing_ids/raw_frames/frame_000723_missing_47.jpg,debug_v2/missing_ids/annotated_frames/frame_000723_missing_47.jpg
+742,741,44,1065,450,1094,545,1050,402,1108,592,29,95,white team,0.024501,debug_v2/missing_ids/raw_frames/frame_000742_missing_44.jpg,debug_v2/missing_ids/annotated_frames/frame_000742_missing_44.jpg

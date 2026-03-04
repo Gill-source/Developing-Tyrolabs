@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Large / outputs
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.png
+*.txt
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Cache
+.cache/
